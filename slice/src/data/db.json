@@ -1,0 +1,103 @@
+
+{
+    "CAKES": [
+      {
+        "id": 1,
+        "name": "Black forest cake",
+        "image": "/src/assets/images/black forest.jpg",
+        "description": "",
+        "price":"Ksh 2000/="
+
+      },
+{
+      "id":2,
+      "name":"Carrot Cake",
+      "image":"/src/assets/images/carrot cake.jpg",
+      "description":"",
+      "price":"Ksh 2100/="
+
+
+},
+{
+    "id":3,
+    "name":"Cheese Cake",
+    "image":"/src/assets/images/cheesecake.jpg",
+    "description":"",
+    "price":"Ksh 3500/="
+
+},
+
+{
+    "id":4,
+    "name":"Chocolate Cake",
+    "image":"/src/assets/images/chocolate cake.jpg",
+    "description":"",
+    "price":"Ksh 2400/="
+
+},
+
+{
+    "id":5,
+    "name": "Chocolate Mint Cake",
+    "image":"/src/assets/images/chocolate mint.jpg",
+    "description":"",
+    "price":"Ksh 2600/="
+
+},
+
+{
+    "id":6,
+    "name":"Passion Cake",
+    "image":"/src/assets/images/Passion Cake.jpg",
+    "description":"",
+    "price":"Ksh 2200/="
+
+},
+
+{
+    "id":7,
+    "name":"Pina-Colada Cake",
+    "image":"/src/assets/images/Pina-Colada Cake.jpg",
+    "description":"",
+    "price":"Ksh 2700/="
+
+},
+
+{
+    "id":8,
+    "name":"Red-Velvet Cake",
+    "image":"/src/assets/images/Red-Velvet.jpg",
+    "description":"",
+    "price":"Ksh 2100/="
+
+},
+
+{
+    "id":9,
+    "name":"Salted Caramel",
+    "image":"/src/assets/images/salted caramel.jpg",
+    "description":"",
+    "price":"Ksh 3500/="
+
+},
+
+{
+    "id":10,
+    "name":"Vanilla Cake",
+    "image":"/src/assets/images/vanilla cake.jpg",
+    "description":"",
+    "price":"Ksh 1800/="
+
+},
+
+{
+    "id":11,
+    "name":"White Forest Cake",
+    "image":"/assets/images/white forest.jpg",
+    "description":"",
+    "price":"Ksh 2300/="
+
+
+}
+    ]
+  }
