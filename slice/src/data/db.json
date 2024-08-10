@@ -48,7 +48,7 @@
 {
     "id":6,
     "name":"Passion Cake",
-    "image":"/src/assets/images/Passion Cake.jpg",
+    "image":"/src/assets/images/Passionfruit_Cake.jpg",
     "description":"",
     "price":"Ksh 2200/="
 
@@ -75,7 +75,7 @@
 {
     "id":9,
     "name":"Salted Caramel",
-    "image":"/src/assets/images/salted caramel.jpg",
+    "image":"/src/assets/images/SALTED-CARAMEL.jpg",
     "description":"",
     "price":"Ksh 3500/="
 
@@ -93,7 +93,7 @@
 {
     "id":11,
     "name":"White Forest Cake",
-    "image":"/assets/images/white forest.jpg",
+    "image":"/src/assets/images/white forest.jpg",
     "description":"",
     "price":"Ksh 2300/="
 
